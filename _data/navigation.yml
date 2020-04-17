@@ -1,0 +1,39 @@
+# main links
+main:
+  
+  - title: "Quick-Start Guide"
+    sublinks:
+      - title: Home
+        url: /
+      - title: English level
+        url: /start/english_level
+      - title: Self-evaluation
+        url: /self-evaluation/
+  - title: "Contact us"
+    url: /contact/
+  - title: About
+    sublinks:
+      - title: Us
+        url: /about/us
+      - title: The area
+        url: /about/area
+      - title: The cooking
+        url: /about/cooking
+---
+title: "Post: Standard"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
+
+
+Contact:
+  name: Contact
+  description: >
+    Here is my full resume.
+
