@@ -17,7 +17,7 @@ feature_row:
     url: "/lessons/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/ViewHouse.JPG
+  - image_path: /assets/images/ViewHouse.png
     alt: "Visits"
     title: "Visits"
     excerpt: "Start organising your stay."
