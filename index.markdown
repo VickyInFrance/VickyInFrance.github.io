@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Giez.JPG
+  overlay_image: /assets/images/Giez.png
   actions:
     - label: "<i class='fa fa-envelope'></i> Contact us"
       url: "/contact/"
