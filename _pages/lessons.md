@@ -8,64 +8,51 @@ header:
 last_modified_at: 2019-10-04T10:54:48-04:00
 ---
 
-I have taught English in various institutions in France for now 10 years. 
+---
+
+# Aims <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100">
+
+
+Personalised programme to suit you and your aims.
+-	Preparation to sit national and international exams in English (such as CAPS, TOEIC, TOEFL, Cambridge, Baccalauréat, ...);
+-	To improve your spoken and/or written English;
+-	To improve your comprehension of spoken and/or written English;
+-	Specific business English: science, engineering, medical, research, finance, juridical, tourism, construction, arts, music, sport, fitness, environment, journalism, media…
+
+We will work on your weaknesses, whether they are grammatical, improving your vocabulary and/or pronunciation. To help you become confident and more fluent.
+
+My aims for you are that you succeed and you look forward to our lessons.  I like to establish a good relationship with my students so that they are happy and we enjoy being in each other’s company. I have always found that students work best in a fun and happy atmosphere.  In other words, learning with pleasure!
+
+
+
 
 ---
 
-# Remote course <img style="float: right;" src="/assets/images/mum_headphone_c.png" width="300" height="100">
-
-Flexible times, work around, a weeks notice
-
-- you can write bullet points
-- yea
-- bouboubou
-- tututu
-- and a one two three
-
----
-
-<div style="text-align: right"> <h1 id="aims"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100"> Aims </h1> </div> 
+<div style="text-align: right"> <h1 id="Remote_courses"> <img style="float: left;" src="/assets/images/mum_headphone_c.png" width="300" height="100"> Remote courses </h1> </div> 
   
-During our first lesson, together we will define your aims and tailor the lessons to your needs. 
 
-If you know your skills you can check out the the Common European Framework of Reference for Languages to have a rough idea of your level. As myself use this reference for better communication.
+From half hourly lessons by telephone for the beginner, to hourly telephone lessons for the more advanced.  I will send you supporting lessons for you to study, keep and prepare, or for us to work together. I work at your speed and to your learning.
+
+We can always find a convenient time to work around your schedule with a week's notice.
 
 ___
 
 # For children  <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100">
 
 
-I teach children songs. Wheels on the bus go round and round..
+For children up to 7 years of age, I use music with songs, actions and play.  The older the child gets, this strategy continues but increasingly includes constructive learning by means of building blocks for grammar and writing skills.
 
-Blalsd
-
-blalal
-bllbla
-
+You are never too young or too old to learn English.
 
 ---
 
-<div style="text-align: right"> <h1 id="conversational"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100"> Conversational </h1> </div> 
-  
-You wish to improve your overall conversationnal skill? 
-Book a course, or come for a tea or brunch. See more on this [page](/contact)
+<div style="text-align: right"> <h1 id="advanced_levl"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100"> Advanced level and professional </h1> </div> 
 
-If you wish to improve your english before moving abroad.
-
-
----
-
-# For professional  <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100">
-
-I work with many professional and teach them bunchn of cool stuff. Such as the wheels on the bus, or simons says.
-- you can write bullet points
-- yea
-
----
-
-<div style="text-align: right"> <h1 id="exam_preparation"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100"> Exam preparation </h1> </div> 
-  
-
-I can prepare for exams such as the TOEIC, TOEFFEL, the oral examination of the concours au class preparatoire as I was "colleuse".
-- you can write bullet points
-- yea
+- Exam preparation: TOEIC, TOEFFEL
+- Writing your curriculum vitae in English.
+- Interview techniques.
+- Aid to public speaking and debates.
+- To help you prepare for your internship in an English speaking country.
+- To check and correct with you your thesis and/or papers before publication.
+- Aid to negotiation techniques, to conduct meetings, presentations... 
+- You name it, we can try it.

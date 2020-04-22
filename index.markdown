@@ -18,10 +18,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/ViewHouse.png
-    alt: "Visits"
-    title: "Visits"
+    alt: "Residential"
+    title: "Residential"
     excerpt: "Start organising your stay."
-    url: "/visit"
+    url: "/residential"
     btn_class: "btn--primary"
     btn_label: ""
   - image_path: /assets/images/translation_v2.png
