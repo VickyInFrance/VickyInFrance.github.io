@@ -30,8 +30,10 @@ feature_row:
     excerpt: "I can perform document translation from/to english from/to french."
     url: "/experience-archive"
     btn_class: "btn--primary"
-    btn_label: "See more"      
+    btn_label: "See more"    
+lang: 0
+ref: index  
 ---
 
 {% include feature_row %}
-
+        
