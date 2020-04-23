@@ -1,4 +1,5 @@
 {% assign lang = page.lang | default: 0 %}
+{% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
 
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
@@ -9,16 +10,13 @@
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
         {% endunless %}
-        <!-- <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.masthead_title | default: site.title }}
-          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
-        </a> -->
         {% assign homes = site.pages | where:"ref", "home" | where: "lang", page.lang %}
         {% if homes.first.url contains 'http' %}
           {% assign home_domain = '' %}
         {% else %}
           {% assign home_domain = site.url | append: site.baseurl %}
         {% endif %}
+
         <a class="site-title" href="{{ home_domain }}{{ homes.first.url }}">{{ site.t[lang].title }}</a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.t[lang].main -%}
@@ -43,6 +41,24 @@
                   </li>
               {% endif %}
           {% endfor %}
+          <!-- <li><strong>{{ site.data.ui-text[locale].language | default: "Language" }}:</strong></li> -->
+          {% for page in pages %}
+          <!-- {% if forloop.first == false %}
+            <li> / </li>
+          {% endif %} -->
+          {% if page.lang == 1%}
+              {% assign img_path = "/assets/images/flag_france.png" %}
+          {% else %}
+              {% assign img_path = "/assets/images/union_jack.png" %}
+          {% endif %}
+          {% if page.url contains 'http' %}
+            {% assign domain = '' %}
+          {% else %}
+            {% assign domain = site.url | append: site.baseurl %}
+          {% endif %}
+          {% assign that_locale = site.t[page.lang].locale %}
+          <li><a href="{{ domain }}{{ page.url }}" class="{{ that_locale }}"><img src="{{ img_path }}" height="30" width="30" /></a></li> 
+        {% endfor %}
       </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">

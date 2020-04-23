@@ -1,39 +1,40 @@
 ---
 layout: splash
-permalink: /
+permalink: /fr
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Giez.png
   actions:
-    - label: "<i class='fa fa-envelope'></i> Contact us"
-      url: "/contact/"
+    - label: "<i class='fa fa-envelope'></i> Contactez-nous"
+      url: "/fr/contact/"
 excerpt: >
-  Learning English with Vicky Naylor
+  Apprendre l'anglais avec Vicky Naylor
 feature_row:
   - image_path: /assets/images/mum_headphone_c.png
     alt: "Cours d'anglais"
     title: "Cours d'anglais"
     excerpt: "Planifier votre premier cours d'anglais. (change pic to mum teaching)"
-    url: "/lessons/"
+    url: "/fr/lessons/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Apprendre plus"
   - image_path: /assets/images/ViewHouse.png
     alt: "Residential"
     title: "Residential"
-    excerpt: "Start organising your stay."
-    url: "/residential"
+    excerpt: "Preparer votre visiste."
+    url: "/fr/residential"
     btn_class: "btn--primary"
-    btn_label: ""
+    btn_label: "Apprendre plus"
   - image_path: /assets/images/translation_v2.png
-    alt: "Translation work"
-    title: "Translation work"
-    excerpt: "I can perform document translation from/to english from/to french."
-    url: "/experience-archive"
+    alt: "Traduction"
+    title: "Traduction"
+    excerpt: "Je peux faire de la traduction du français vers l'anglais."
+    url: "/fr/translation/"
     btn_class: "btn--primary"
-    btn_label: "See more"
+    btn_label: "Apprendre plus"
 lang: 1
-ref: index      
+ref: home 
 ---
 
 {% include feature_row %}
 
+SITE WEB EN CONSTRUCTION

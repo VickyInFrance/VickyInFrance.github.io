@@ -1,6 +1,8 @@
 # main links
 main:
-  
+
+  - title: "Contact us"
+    url: /en/contact/
   - title: "Quick-Start Guide"
     sublinks:
       - title: Home
@@ -9,8 +11,6 @@ main:
         url: /en/start/english_level
       - title: Self-evaluation
         url: /en/self-evaluation/
-  - title: "Contact us"
-    url: /en/contact/
   - title: About
     sublinks:
       - title: Us
@@ -27,7 +27,7 @@ t:
           - title: Home
             url: /en
           - title: English level
-            url: /en/start/english_level
+            url: /en/start_english_level
           - title: Self-evaluation
             url: /en/self-evaluation/
       - title: "Contact us"
@@ -38,28 +38,24 @@ t:
             url: /en/about/us
           - title: The area
             url: /en/about/area
-          - title: The cooking
-            url: /en/about/cooking
 
   - main:
       - title: "Guide de départ"
         sublinks:
-          - title: Home
+          - title: Page d'accueil
             url: /fr
-          - title: English level
-            url: /en/start/english_level
-          - title: Self-evaluation
-            url: /en/self-evaluation/
-      - title: "Contact us"
-        url: /en/contact/
-      - title: About
+          - title: Niveau d'anglais
+            url: /fr/start_english_level
+          - title: Auto-evaluation
+            url: /fr/self-evaluation/
+      - title: "Contactez nous"
+        url: /fr/contact/
+      - title: En savoir plus
         sublinks:
-          - title: Us
-            url: /en/about/us
-          - title: The area
-            url: /en/about/area
-          - title: The cooking
-            url: /en/about/cooking
+          - title: Sur nous
+            url: /fr/about/us
+          - title: Sur la région
+            url: /fr/about/area
 ---
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
