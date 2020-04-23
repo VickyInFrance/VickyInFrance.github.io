@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /en/contact/
 tag: contact
+ref: contact
+lang: 0
 ---
 
 Please contact us by [email](mailto:vickyinfrance@gmail.com) or by filling the following form:

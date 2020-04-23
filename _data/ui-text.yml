@@ -3,6 +3,8 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
+  language                   : "Language"
+  language_name              : "English"
   skip_links                 : "Skip links"
   skip_primary_nav           : "Skip to primary navigation"
   skip_content               : "Skip to content"
@@ -115,6 +117,8 @@ es-CO:
 # French
 # ------
 fr: &DEFAULT_FR
+  language                   : "Language"
+  language_name              : "Francais"
   skip_links                 :
   skip_primary_nav           :
   skip_content               :

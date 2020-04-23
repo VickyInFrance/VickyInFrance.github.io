@@ -1,16 +1,18 @@
 ---
 layout: splash
 title: English lessons
-permalink: /lessons/
+permalink: /en/lessons/
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/anotherpictureplease.png
 last_modified_at: 2019-10-04T10:54:48-04:00
+ref: lessons
+lang: 0
 ---
 
 ---
 
-# Aims <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100">
+# Aims <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
 
 
 Personalised programme to suit you and your aims.
@@ -28,7 +30,7 @@ My aims for you are that you succeed and you look forward to our lessons.  I lik
 
 ---
 
-<div style="text-align: right"> <h1 id="Remote_courses"> <img style="float: left;" src="/assets/images/mum_headphone_c.png" width="300" height="100"> Remote courses </h1> </div> 
+<div style="text-align: right"> <h1 id="Remote_courses"> <img style="float: left;" src="/assets/images/mum_headphone_c.png" width="300" height="100" hspace="30"> Remote courses </h1> </div> 
   
 
 From half hourly lessons by telephone for the beginner, to hourly telephone lessons for the more advanced.  I will send you supporting lessons for you to study, keep and prepare, or for us to work together. I work at your speed and to your learning.
@@ -37,7 +39,7 @@ We can always find a convenient time to work around your schedule with a week's 
 
 ___
 
-# For children  <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100">
+# For children  <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
 
 
 For children up to 7 years of age, I use music with songs, actions and play.  The older the child gets, this strategy continues but increasingly includes constructive learning by means of building blocks for grammar and writing skills.
@@ -46,9 +48,9 @@ You are never too young or too old to learn English.
 
 ---
 
-<div style="text-align: right"> <h1 id="advanced_levl"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100"> Advanced level and professional </h1> </div> 
+<div style="text-align: right"> <h1 id="advanced_levl"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30"> Advanced level and professional </h1> </div> 
 
-- Exam preparation: TOEIC, TOEFFEL
+- Exam preparation: TOEIC, TOEFFEL, 'concours aux grandes écoles'.
 - Writing your curriculum vitae in English.
 - Interview techniques.
 - Aid to public speaking and debates.
@@ -56,3 +58,11 @@ You are never too young or too old to learn English.
 - To check and correct with you your thesis and/or papers before publication.
 - Aid to negotiation techniques, to conduct meetings, presentations... 
 - You name it, we can try it.
+
+
+
+---
+
+# Pricing  <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
+  
+Pricing is according to the number of students, also according to your requirements and level of English.  Please [contact us](/contact/) for your quotation.

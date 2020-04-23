@@ -1,24 +1,61 @@
 # main links
 main:
-  
+
+  - title: "Contact us"
+    url: /en/contact/
   - title: "Quick-Start Guide"
     sublinks:
       - title: Home
-        url: /
+        url: /en
       - title: English level
-        url: /start/english_level
+        url: /en/start/english_level
       - title: Self-evaluation
-        url: /self-evaluation/
-  - title: "Contact us"
-    url: /contact/
+        url: /en/self-evaluation/
   - title: About
     sublinks:
       - title: Us
-        url: /about/us
+        url: /en/about/us
       - title: The area
-        url: /about/area
+        url: /en/about/area
       - title: The cooking
-        url: /about/cooking
+        url: /en/about/cooking
+
+t:
+  - main:
+      - title: "Quick-Start Guide"
+        sublinks:
+          - title: Home
+            url: /en
+          - title: English level
+            url: /en/start_english_level
+          - title: Self-evaluation
+            url: /en/self-evaluation/
+      - title: "Contact us"
+        url: /en/contact/
+      - title: About
+        sublinks:
+          - title: Us
+            url: /en/about/us
+          - title: The area
+            url: /en/about/area
+
+  - main:
+      - title: "Guide de départ"
+        sublinks:
+          - title: Page d'accueil
+            url: /fr
+          - title: Niveau d'anglais
+            url: /fr/start_english_level
+          - title: Auto-evaluation
+            url: /fr/self-evaluation/
+      - title: "Contactez nous"
+        url: /fr/contact/
+      - title: En savoir plus
+        sublinks:
+          - title: Sur nous
+            url: /fr/about/us
+          - title: Sur la région
+            url: /fr/about/area
 ---
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
@@ -29,11 +66,3 @@ tags:
   - readability
   - standard
 ---
-
-
-
-Contact:
-  name: Contact
-  description: >
-    Here is my full resume.
-

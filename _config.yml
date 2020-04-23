@@ -20,7 +20,9 @@ title                    : "Vicky in France"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Vicky Naylor"
-description              : "Speaking with ease"
+description              : 
+  en: "Speaking with ease"
+  fr: "Parlez avec aisance"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : VickyInFrance/VickyInFrance.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -235,6 +237,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -242,8 +245,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
-
+  - jekyll-redirect-from
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -302,3 +304,11 @@ defaults:
     values:
       layout: single
 
+t:
+  - locale             : "en"
+    title              : "Vicky in France"
+    description        : "come one"
+
+  - locale             : "fr-FR"
+    title              : "Vicky in France"
+    description        : "The theory about twisty puzzles"
