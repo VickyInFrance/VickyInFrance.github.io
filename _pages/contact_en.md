@@ -7,7 +7,7 @@ ref: contact
 lang: 0
 ---
 
-Please contact us by [email](mailto:vickyinfrance@gmail.com) or by filling the following form:
+Please contact us by [email](mailto:vickyinfrance@gmail.com) (vickyinfrance@gmail.com) or by filling the following form:
 
 <form
   action="https://formspree.io/myydvren"
@@ -15,16 +15,15 @@ Please contact us by [email](mailto:vickyinfrance@gmail.com) or by filling the f
 >
   <label>
     Your email:
-    <input type="text" name="_replyto" placeholder="john.doe@example.com">
+    <input type="text" name="_replyto" placeholder="">
     Your name:
-	<input type="text" name="name" id="name" placeholder="John Doe"/> 
+	<input type="text" name="name" id="name" placeholder=""/> 
     Or if you would prefer being contacted by telephone:
-	<input type="text" name="phone" id="phone" placeholder="06 00 00 00 00" />
+	<input type="text" name="phone" id="phone" placeholder="" />
   </label>
   <label>
     Your message:
-    <textarea name="message" placeholder="Hello,
-I would like to have a first remote lesson for understanding my needs and goals."></textarea>
+    <textarea name="message" placeholder=""></textarea>
   </label>
 
   <!-- your other form fields go here -->

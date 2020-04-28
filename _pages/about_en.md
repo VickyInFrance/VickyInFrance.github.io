@@ -13,7 +13,7 @@ We moved to France from London with our five young children in 1994.  In London 
 
 
 
-Soon after moving to France, we set up a company and an in-house music recording studio (see our music website for residential possibilities for group practices and recording).  My husband writes and plays music and is also a wonderful cook (see Peter’s daily cooking bog to see some of his exciting and trusted menus and recipes).
+Soon after moving to France, we set up a company and an in-house music recording studio (see our music website for residential possibilities for group practices and recordings).  My husband writes and plays music and is also a wonderful cook (go check out [Peter’s](GiezFoodie.github.io) daily cooking bog to see some of his exciting and trusted menus and recipes).
 
 
 
