@@ -13,7 +13,7 @@ lang: 0
 
 
 I have worked on many translations. 
-These include translating large and complex documents, often used with a specific language, such as in legal documents, civil engineering projects, simultaneous live translations in court hearings and at the notary, for example.
+These include translating large and complex documents, often used with a specific language, such as in legal documents, civil engineering projects, simultaneous live translations in court hearings and at the notary.
 
 
 ---
