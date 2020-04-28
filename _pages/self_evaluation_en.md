@@ -10,4 +10,4 @@ ref: self_evaluation
 lang: 0
 ---
 
-TO BE DONE
+No cheating!  Just choose your answer (a, b, c, or d) quickly, take a note of your time that you spent answering the 50 questions.   

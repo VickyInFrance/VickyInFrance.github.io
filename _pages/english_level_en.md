@@ -13,4 +13,4 @@ lang: 0
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/english_level.png)
 {: .full}
 
-This table is based on the chart given by [Common European Framework of Reference for Languages](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages).
+This table is based on the chart given by the [Common European Framework of Reference for Languages](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages).

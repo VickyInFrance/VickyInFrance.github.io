@@ -15,7 +15,7 @@ lang: 0
 # Aims <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
 
 
-Personalised programme to suit you and your aims.
+Personalised programmes to suit you and your aims.
 -	Preparation to sit national and international exams in English (such as CAPS, TOEIC, TOEFL, Cambridge, Baccalauréat, ...);
 -	To improve your spoken and/or written English;
 -	To improve your comprehension of spoken and/or written English;
@@ -26,31 +26,11 @@ We will work on your weaknesses, whether they are grammatical, improving your vo
 My aims for you are that you succeed and you look forward to our lessons.  I like to establish a good relationship with my students so that they are happy and we enjoy being in each other’s company. I have always found that students work best in a fun and happy atmosphere.  In other words, learning with pleasure!
 
 
-
-
 ---
 
-<div style="text-align: right"> <h1 id="Remote_courses"> <img style="float: left;" src="/assets/images/mum_headphone_c.png" width="300" height="100" hspace="30"> Remote courses </h1> </div> 
-  
+<div style="text-align: right"> <h1 id="advanced_level"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30"> Advanced level and professional </h1> </div> 
 
-From half hourly lessons by telephone for the beginner, to hourly telephone lessons for the more advanced.  I will send you supporting lessons for you to study, keep and prepare, or for us to work together. I work at your speed and to your learning.
-
-We can always find a convenient time to work around your schedule with a week's notice.
-
-___
-
-# For children  <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
-
-
-For children up to 7 years of age, I use music with songs, actions and play.  The older the child gets, this strategy continues but increasingly includes constructive learning by means of building blocks for grammar and writing skills.
-
-You are never too young or too old to learn English.
-
----
-
-<div style="text-align: right"> <h1 id="advanced_levl"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30"> Advanced level and professional </h1> </div> 
-
-- Exam preparation: TOEIC, TOEFFEL, 'concours aux grandes écoles'.
+- Exam preparation: TOEIC, TOEFL, 'concours aux grandes écoles'.
 - Writing your curriculum vitae in English.
 - Interview techniques.
 - Aid to public speaking and debates.
@@ -59,10 +39,34 @@ You are never too young or too old to learn English.
 - Aid to negotiation techniques, to conduct meetings, presentations... 
 - You name it, we can try it.
 
+Needing something more intensive? Look at [residential course](/en/residential/).
+
+
+
+---
+
+
+# For Remote courses  <img style="float: right;" src="/assets/images/mum_headphone_c.png" width="300" height="100" hspace="30">
+
+From half hourly lessons by telephone for the beginner, to hourly telephone lessons for the more advanced.  I will send you supporting lessons for you to study, keep and prepare, or for us to work together. I work at your speed and to your learning.
+
+We can always find a convenient time to work around your schedule with a week's notice.
+
+
+
+___
+
+<div style="text-align: right"> <h1 id="Remote_courses"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30"> For children </h1> </div> 
+  
+
+
+For children up to 7 years of age, I use music with songs, actions and play.  The older the child gets, this strategy continues but increasingly includes constructive learning by means of building blocks for grammar and writing skills.
+
+You are never too young or too old to learn English.
 
 
 ---
 
 # Pricing  <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
   
-Pricing is according to the number of students, also according to your requirements and level of English.  Please [contact us](/contact/) for your quotation.
+Pricing is according to the number of students, also according to your requirements and level of English, but as a guide, English lessons start at 40 euros an hour. Please [contact us](/contact/) for your quotation.

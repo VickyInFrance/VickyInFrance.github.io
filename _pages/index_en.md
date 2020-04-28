@@ -12,10 +12,10 @@ header:
 excerpt: >
   Learning English with Vicky Naylor
 feature_row:
-  - image_path: /assets/images/mum_headphone_c.png
+  - image_path: /assets/images/anotherpictureplease.png
     alt: "English lessons"
     title: "English lessons"
-    excerpt: "Schedule an english lesson. (change pic to mum teaching)"
+    excerpt: "Schedule an English lesson."
     url: "/en/lessons/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/translation_v2.png
     alt: "Translation work"
     title: "Translation work"
-    excerpt: "I can perform document translation from/to english from/to french."
+    excerpt: "I can perform document translation from/to English from/to French."
     url: "/en/translation/"
     btn_class: "btn--primary"
     btn_label: "See more"    
