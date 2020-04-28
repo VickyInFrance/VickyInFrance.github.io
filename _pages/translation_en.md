@@ -12,13 +12,8 @@ lang: 0
 
 
 
-# Some past translations <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
-
-I have worked on my large project where I had translate very specific and large documents, in particular for:
-
-- some government
-- for bridge construction
-- some other translations
+I have worked on many translation. 
+These include, translating large and complex documents, often used with a specific language, such as in legal documents, civil engineering projects, simultaneous live translations in court hearings and at the notary for example.
 
 
 ---
