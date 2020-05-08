@@ -4,16 +4,16 @@ title: About the area
 permalink: /en/about/area
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Giez.png
+  overlay_image: /assets/images/mont_veyrier.jpg
 lang: 0
 ref: about_area
 ---
 
-We live in a beautiful region which lends itself to multiple sporting interests in all seasons, including numerous bike paths joining [Annecy](https://en.wikipedia.org/wiki/Annecy) with outlying villages to as far as [Albertville](https://en.wikipedia.org/wiki/Albertville).  The old town of [Annecy](https://en.wikipedia.org/wiki/Annecy) or "Le vieil Annecy"  is famous for its meandering canals and idyllic picture-postcard scenes, and [Lake Annecy](https://en.wikipedia.org/wiki/Lake_Annecy) is known for its clean waters surrounded by numerous beaches. [Annecy](https://en.wikipedia.org/wiki/Annecy) is just over 40 kms from [Geneva](https://en.wikipedia.org/wiki/Geneva) and 100 kms from [Mont Blanc](https://en.wikipedia.org/wiki/Mont_Blanc), with many more mountains to climb, ski and explore in between.
+We live in a beautiful region which lends itself to multiple sporting interests in all seasons, including numerous bike paths joining [Annecy](https://en.wikipedia.org/wiki/Annecy) with outlying villages to as far as [Albertville](https://en.wikipedia.org/wiki/Albertville).  The old town of Annecy or "Le vieil Annecy",  is famous for its meandering canals and idyllic picture-postcard scenes, and [Lake Annecy](https://en.wikipedia.org/wiki/Lake_Annecy) is known for its clean waters surrounded by numerous beaches. Annecy is just over 40 kms from [Geneva](https://en.wikipedia.org/wiki/Geneva) and 100 kms from [Mont Blanc](https://en.wikipedia.org/wiki/Mont_Blanc), with many more mountains to climb, ski and explore in between.
 
 
 
-Our own village of [Giez](https://en.wikipedia.org/wiki/Giez) is quiet and has an [18-hole and 9-hole golf course](https://golfdegiez.com/).  Our house is situated in the historic part of town, overlooking the golf course and overlooked by its still privately owned medieval chateau.  We are nevertheless quite well connected by public transport to both Annecy in one direction, and to [Albertville](https://en.wikipedia.org/wiki/Albertville) in the opposite direction, and cycle path at the bottom of our road.
+Our own village of [Giez](https://en.wikipedia.org/wiki/Giez) is quiet and has an [18-hole and 9-hole golf course](https://golfdegiez.com/).  Our house is situated in the historic part of town, overlooking the golf course and overlooked by its still privately owned medieval chateau.  We are nevertheless quite well connected by public transport to both Annecy in one direction, and to Albertville in the opposite direction, and cycle path at the bottom of our road.
 
 
 

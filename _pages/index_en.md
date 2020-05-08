@@ -12,7 +12,7 @@ header:
 excerpt: >
   Learning English with Vicky Naylor
 feature_row:
-  - image_path: /assets/images/anotherpictureplease.png
+  - image_path: /assets/images/mum_headphone_c.png
     alt: "English lessons"
     title: "English lessons"
     excerpt: "Schedule an English lesson."
@@ -25,7 +25,7 @@ feature_row:
     excerpt: "Start organising your stay."
     url: "/en/residential"
     btn_class: "btn--primary"
-    btn_label: ""
+    btn_label: "Find out more"
   - image_path: /assets/images/translation_v2.png
     alt: "Translation work"
     title: "Translation work"

@@ -10,4 +10,4 @@ ref: self_evaluation
 lang: 0
 ---
 
-No cheating!  Just choose your answer (a, b, c, or d) quickly, take a note of your time that you spent answering the 50 questions.   
+No cheating!  Just choose your answer (a, b, c, or d) quickly, and take a note of the time you spent answering the 50 questions.   
