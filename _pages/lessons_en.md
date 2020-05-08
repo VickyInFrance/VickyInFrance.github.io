@@ -39,7 +39,7 @@ My aims for you are that you succeed and you look forward to our lessons.  I lik
 - Aid to negotiation techniques, to conduct meetings, presentations... 
 - You name it, we can try it.
 
-Needing something more intensive? Look at [residential course](/en/residential/).
+Needing something more intensive? Look at [residential courses](/en/residential/).
 
 
 
@@ -69,4 +69,4 @@ You are never too young or too old to learn English.
 
 # Pricing  <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
   
-Pricing is according to the number of students, also according to your requirements and level of English, but as a guide, English lessons start at 40 euros an hour. Please [contact us](/contact/) for your quotation.
+Pricing is according to the number of students, also according to your requirements and level of English, but as a guide, basic English lessons are 40 euros an hour. Please [contact us](/contact/) for your quotation.

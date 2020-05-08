@@ -9,25 +9,24 @@ last_modified_at: 2019-10-04T10:54:48-04:00
 ref: residential
 lang: 0
 ---
-
-Wanting something a bit more immersive? 
-Are you moving abroad to work or study but a bit worried of breaking the ice with English language and to feel more at ease speaking everyday English? 
-
+Wanting something more immersive?  Are you moving abroad to work or study but a bit worried about breaking the ice speaking everyday English, and would like to feel more at ease before you go?
 
 # Residential courses <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
 
-Residential courses from beginner to advanced.  Maximum of 3 people per level.  Intensive programme during 3 days with morning and afternoon lessons (9 am to 12 am and 2 pm to 5 pm), accommodation and full board with 3 meals daily, spoken English required at all times.  
+Residential courses from beginner to advanced.  Maximum of 3 people per level.  Intensive programme during 3 days with morning and afternoon lessons (9 am to 12 am and 2 pm to 5 pm), accommodation and full board with 3 meals daily. Spoken English required at all times.  
 
-Longer stays of one week and more, which would include a minimum of 3 hours of English lessons per day and also other activities and/or visits to suit the student: 
+Longer stays of one week and more would include a minimum of 3 hours of English lessons per day and also other activities and/or visits to suit the student: 
 - English etiquette and English customs
 - numerous outdoor activities can be arranged (skiing, hicking, paragliding, canyoning, sailing, etc..)
-- Cultural visits, near and far (on request)
-- viniculture, wine appreciation
-- music, practice and recordings
+- cultural visits, near and far (on request)<sup><span style="color:blue">1.</span></sup>
+- viniculture; wine appreciation
+- music; practice and recordings
 - cooking
 
 My husband writes and plays music and is also a wonderful cook (check out [Peter’s daily cooking blog](GiezFoodie.github.io) to see some of his exciting and trusted menus and recipes).
 
+
+<sup><span style="color:blue">1.</span></sup> *During minimum stays of two weeks and of groups no greater than 3 people, your programme is tailor-made to suit you, including the possibility of accompanied visits to a choice of European cities.  Pricing would be calculated according to the length of stay, type of accommodation and ancillary charges, for example the cost of entrance tickets to a venue.*
 
 ---
 
@@ -39,18 +38,22 @@ We are also happy to accept holidaymakers, both French and English visitors, who
 
 # Leisurely conversation around a meal <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
 
-- Come and enjoy an English cup of tea with homemade cake or scones, approximately one hour. 
-- Join us between one to a hour and a half of English or French conversation around brunch or lunch.
+- Join us for approximately one hour of English or French conversation around brunch or lunch<sup><span style="color:blue">2.</span></sup>.
+- Come and enjoy an English cup of tea with homemade cake or scones, approximately one hour<sup><span style="color:blue">2.</span></sup>. 
 
 
+<sup><span style="color:blue">2.</span></sup> *For a minimum of two people*.
 
 ---
 
 <div style="text-align: right"> <h1 id="brunch"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30"> Pricing </h1> </div> 
 
 - Bed and breakfast is 50 euros a night.
-- Brunch and lunches with English or French conversation expect to last between 1 to 1.5 hours and are priced at 20 euros per person, for two minimum.
-- Tea with English or French conversation of approximately 1.5 hrs at 12 euros per person.
+- Brunch and lunches with English or French conversation for approximately one hour and are priced at 20 euros per person.
+- Tea with English or French conversation for approximately one hour at 12 euros per person.
 - Picnic lunches can vary between 8 euros and 14 euros per person.
-- English lessons start at 40 euros a hour.
-- Pricing for residential are relative to the number of guests and/or students, also set according to your requirements and length of stay.  Please [contact us](/contact/) for your quotation.
+- English lessons are 40 euros an hour.
+- Pricing for residential stays are relative to the number of guests and/or students. They are also set according to your requirements and length of stay.  Please [contact us](/contact/) for your quotation.
+
+
+---

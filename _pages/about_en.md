@@ -16,5 +16,7 @@ We moved to France from London with our five young children in 1994.  In London 
 Soon after moving to France, we set up a company and an in-house music recording studio (see our music website for residential possibilities for group practices and recordings).  My husband writes and plays music and is also a wonderful cook (go check out [Peter’s](GiezFoodie.github.io) daily cooking bog to see some of his exciting and trusted menus and recipes).
 
 
+Our eldest son, Adam, also teaches the guitar, writes music and plays in concerts (see his (web site)[http://www.adamnaylormusic.com/] for more information). 
+
 
 Since living in France we have become involved in many aspects of the community, including two successive mandates as an elected council member of our home town.  We have also obtained dual nationality; English and French.
