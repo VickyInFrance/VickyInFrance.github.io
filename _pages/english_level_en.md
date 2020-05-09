@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Giez.png
 excerpt: >
-  <p style="color:rgba(255,0,0,0);">invisible line jump </p>
+  <p style="color:rgba(255,0,0,0);">  _ </p>
 ref: english_level
 lang: 0
 ---

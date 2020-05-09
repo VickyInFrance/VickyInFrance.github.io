@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   image: /assets/images/viel_annecy.jpg
 excerpt: >
-  <p style="color:rgba(255,0,0,0);">invisible line jump </p>
+  <p style="color:rgba(255,0,0,0);">  _ </p>
 last_modified_at: 2019-10-04T10:54:48-04:00
 ref: residential
 lang: 0
