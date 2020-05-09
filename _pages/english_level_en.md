@@ -4,7 +4,9 @@ title: English level
 permalink: /en/start_english_level
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/anotherpictureplease.png
+  overlay_image: /assets/images/Giez.png
+excerpt: >
+  <p style="color:rgba(255,0,0,0);">invisible line jump </p>
 ref: english_level
 lang: 0
 ---

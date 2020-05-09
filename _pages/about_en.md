@@ -5,6 +5,8 @@ permalink: /en/about/us
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/anotherpictureplease.png
+excerpt: >
+  <p style="color:rgba(255,0,0,0);">invisible line jump </p>
 lang: 0
 ref: about
 ---

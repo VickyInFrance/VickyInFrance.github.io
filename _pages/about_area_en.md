@@ -5,6 +5,8 @@ permalink: /en/about/area
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mont_veyrier.jpg
+excerpt: >
+  <p style="color:rgba(255,0,0,0);">invisible line jump </p>
 lang: 0
 ref: about_area
 ---
