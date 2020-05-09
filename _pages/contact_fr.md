@@ -14,19 +14,19 @@ Veuillez nous contacter par [email](mailto:vickyinfrance@gmail.com) ou en rempli
   method="POST"
 >
   <label>
+    Votre nom et prénom:
+	<input type="text" name="name" id="name" placeholder=""/> 
     Votre email:
-    <input type="text" name="_replyto" placeholder="john.doe@example.com">
-    Votre nom:
-	<input type="text" name="name" id="name" placeholder="John Doe"/> 
+    <input type="text" name="_replyto" placeholder="Email">
     Ou si vous préfèrez être contacté par téléphone:
-	<input type="text" name="phone" id="phone" placeholder="06 00 00 00 00" />
+	<input type="text" name="phone" id="phone" placeholder="" />
   </label>
   <label>
     Votre message:
-    <textarea name="message" placeholder="Bonjour, Je souhaiterai prendre rendez-vous pour un premier rendez-vous pour évaluer mon niveau d'anglais et fixer des objectifs de progression. Bien cordialement,"></textarea>
+    <textarea name="message" placeholder=""></textarea>
   </label>
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit">Envoyer</button>
 </form>

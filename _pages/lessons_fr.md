@@ -15,33 +15,50 @@ lang: 1
 
 ---
 
-# Objectif <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
+# Objectifs <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
 
-
-Programme personnalisé en fonction de vous et de vos objectifs.
+Des programmes personnalisés en fonction de vos besoins et de vos objectifs.
 - Préparation aux examens nationaux et internationaux en anglais (tels que CAPS, TOEIC, TOEFL, Cambridge, Baccalauréat, ...) ;
 - Améliorer votre anglais parlé et/ou écrit ;
 - Améliorer votre compréhension de l'anglais parlé et/ou écrit ;
 - Anglais spécifique des affaires : sciences, ingénierie, médecine, recherche, finance, juridique, tourisme, construction, arts, musique, sport, fitness, environnement, journalisme, médias...
 
-Nous travaillerons sur vos faiblesses, qu'elles soient grammaticales, portant sur votre vocabulaire et/ou de votre prononciation. Je veux  vous aider à devenir plus confiant et plus fluide en anglais.
+Nous travaillerons sur vos points faibles, qu'ils soient grammaticaux, de vocabulaire et/ou de prononciation ; je vous aiderai à devenir plus confiant et plus fluide.
 
-Mon objectif pour vous est que vous réussissiez et que vous attendiez avec impatience nos leçons.  J'aime établir une bonne relation avec mes élèves afin qu'ils soient heureux et que nous ayons plaisir à être en compagnie les uns des autres. J'ai toujours trouvé que les étudiants travaillent mieux dans une atmosphère amusante et heureuse.  En d'autres termes, apprendre avec plaisir !
+Mes objectifs à moi sont que vous réussissiez et que vous attendiez avec impatience nos leçons.  J'aime établir une bonne relation avec mes étudiants afin qu'ils soient heureux et que nous ayons plaisir à être en compagnie les uns des autres. J'ai toujours trouvé que les étudiants travaillent mieux dans une atmosphère amusante et heureuse.  En d'autres termes, ils apprennent avec plaisir !
 
 
 
 ---
 
-<div style="text-align: right"> <h1 id="Remote_courses"> <img style="float: left;" src="/assets/images/mum_headphone_c.png" width="300" height="100" hspace="30"> Cours à distance </h1> </div> 
-  
+<div style="text-align: right"> <h1 id="advanced_level"> <img style="float: left;" src="/assets/images/" width="300" height="100" hspace="30"> Niveau avancé et professionnel </h1> </div> 
 
-Des cours par téléphone d'une demi-heure pour les débutants, aux cours par téléphone d'une heure pour les plus avancés.  Je vous enverrai des leçons de soutien que vous pourrez étudier, conserver et préparer, ou que nous pourrons travailler ensemble. Je travaille à votre rythme et à votre apprentissage.
+
+- Préparation aux examens : TOEIC, TOEFL, "concours aux grandes écoles".
+- Rédaction de votre curriculum vitae en anglais.
+- Techniques d'entretien.
+- Aide à la prise de parole en public et aux débats.
+- Pour vous aider à préparer votre stage dans un pays anglophone.
+- Pour vérifier et corriger avec vous votre thèse et/ou vos travaux avant leur publication.
+- Aide aux techniques de négociation, à la conduite de réunions, aux présentations... 
+- Proposez et nous pouvons l'essayer !
+
+Vous pensiez à quelque chose de plus immersif et intense? Consultez [les cours résidentiels](/fr/résidentiel/).
+
+
+---
+
+
+# Cours à distance  <img style="float: right;" src="/assets/images/zoom_meeting.jpg" width="300" height="100" hspace="30">
+
+Des cours par téléphone d'une demi-heure pour les débutants, aux cours par téléphone d'une heure pour les plus avancés. 
+Je vous enverrai des leçons de soutien que vous pourrez étudier, conserver et préparer, ou que nous pourrons travailler ensemble. Je m'adapte à votre rythme et à votre apprentissage.
 
 Nous pouvons toujours trouver un moment propice pour travailler en fonction de votre emploi du temps, avec un préavis d'une semaine.
 
 ___
 
-# Pour les enfants  <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
+<div style="text-align: right"> <h1 id="Remote_courses"> <img style="float: left;" src="/assets/images/adele.jpg" width="300" height="100" hspace="30"> Pour les enfants </h1> </div> 
 
 Pour les enfants jusqu'à 7 ans, j'utilise la musique avec des chansons, des actions et des jeux.  Plus l'enfant grandit, cette stratégie se poursuit mais comprend de plus en plus un apprentissage constructif au moyen de blocs de construction pour la grammaire et l'écriture.
 
@@ -49,20 +66,6 @@ On n'est jamais trop jeune ou trop vieux pour apprendre l'anglais.
 
 ---
 
-<div style="text-align: right"> <h1 id="advanced_levl"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30"> Niveau avancé et professionnel </h1> </div> 
-
-- Préparation aux examens : TOEIC, TOEFFEL, concours aux grandes écoles.
-- Rédiger votre curriculum vitae en anglais.
-- Techniques d'entretien.
-- Aide à la prise de parole en public et aux débats.
-- Pour vous aider à préparer votre stage dans un pays anglophone.
-- Pour vérifier et corriger avec vous votre thèse et/ou vos travaux avant leur publication.
-- Aide aux techniques de négociation, à la conduite de réunions, aux présentations... 
-- Vous l'avez dit, nous pouvons l'essayer.
-
-
----
-
-# Prix  <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
+# Prix
   
-Les prix sont établis en fonction du nombre d'étudiants, mais aussi en fonction de vos besoins et de votre niveau d'anglais.  Veuillez [nous contacter](/contact/) pour obtenir un devis.
+Le prix est fonction du nombre d'étudiants, mais aussi de vos besoins et de votre niveau d'anglais. À titre indicatif, les cours d'anglais de base sont facturés 40 euros de l'heure. Veuillez [nous contacter](/contact/) pour obtenir un devis.

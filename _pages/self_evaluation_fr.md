@@ -14,6 +14,7 @@ lang: 1
 
 <!-- modify this form HTML and place wherever you want your form -->
 
+Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les quatres propositions et de noter le temps que vous avez passé à répondre aux 50 questions. 
 
 <form 
   id="fs-frm" 

@@ -12,4 +12,6 @@ ref: self_evaluation
 lang: 0
 ---
 
-No cheating!  Just choose your answer (a, b, c, or d) quickly, and take a note of the time you spent answering the 50 questions.   
+No cheating! Actually wait, if you are on the English version of the website it would seem you don't need to do this test... 
+  
+Still want to check the test? Check it out [here](/fr/self-evaluation/).

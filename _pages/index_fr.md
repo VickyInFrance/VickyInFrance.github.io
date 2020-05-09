@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/mum_headphone_c.png
     alt: "Cours d'anglais"
     title: "Cours d'anglais"
-    excerpt: "Planifier votre premier cours d'anglais. (change pic to mum teaching)"
+    excerpt: "Planifier votre premier cours d'anglais."
     url: "/fr/lessons/"
     btn_class: "btn--primary"
     btn_label: "Apprendre plus"

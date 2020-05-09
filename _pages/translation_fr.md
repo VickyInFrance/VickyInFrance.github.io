@@ -12,7 +12,11 @@ ref: translation
 lang: 1
 ---
 
-J'ai travaillé sur moultes projets ou je vais traduire de large documents très spécialisé, en particulier pour:
-- le gouvernement
-- des documents de constructions de ponts
-- autre
+J'ai travaillé sur de nombreuses traductions.  Il s'agit notamment de la traduction de documents volumineux et complexes, utilisant souvent un vocabulaire très technique et précis comme dans les projets de génie civil, de la traduction de documents juridiques, de documents d'entreprise de toutes sortes, de la traduction simultanée en direct lors d'audiences au tribunal et chez le notaire.
+
+---
+
+<div style="text-align: right"> <h1 id="brunch"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30"> Prix </h1> </div> 
+
+
+Le prix dépend de la complexité de la traduction et de son urgence, et aussi du fait qu'il s'agisse de documents écrits ou de traductions en direct.  Pour les traductions écrites, un devis est basé sur le nombre de mots du document, le temps calculé nécessaire (en particulier lorsqu'une recherche approfondie peut être nécessaire), et le temps à consacrer à la personnalisation de l'anglais et à la transformation des idées en la meilleure approche marketing pour atteindre les clients.

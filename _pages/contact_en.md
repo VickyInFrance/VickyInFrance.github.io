@@ -14,10 +14,10 @@ Please contact us by [email](mailto:vickyinfrance@gmail.com) (vickyinfrance@gmai
   method="POST"
 >
   <label>
-    Your email:
-    <input type="text" name="_replyto" placeholder="">
     Your name:
-	<input type="text" name="name" id="name" placeholder=""/> 
+	  <input type="text" name="name" id="name" placeholder="First and Last" required=""/> 
+    Your email:
+    <input type="text" name="_replyto" placeholder="Email" required="">
     Or if you would prefer being contacted by telephone:
 	<input type="text" name="phone" id="phone" placeholder="" />
   </label>
