@@ -4,7 +4,7 @@ title: About us
 permalink: /en/about/us
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/anotherpictureplease.png
+  overlay_image: /assets/images/mont_veyrier.jpg
 excerpt: >
   <p style="color:rgba(255,0,0,0);">  _ </p>
 lang: 0
@@ -15,10 +15,22 @@ We moved to France from London with our five young children in 1994.  In London 
 
 
 
-Soon after moving to France, we set up a company and an in-house music recording studio (see our music website for residential possibilities for group practices and recordings).  My husband writes and plays music and is also a wonderful cook (go check out [Peter’s](GiezFoodie.github.io) daily cooking blog to see some of his exciting and trusted menus).
+Soon after moving to France, we set up a company and an in-house music recording studio (see our music website for residential possibilities for group practices and recordings).  My husband writes and plays music and is also a wonderful cook (go check out Peter’s daily [cooking blog](https://GiezFoodie.github.io) to see some of his exciting and trusted menus).
 
 
 Our eldest son, Adam, also teaches the guitar, writes music and plays in concerts (see his [website](http://www.adamnaylormusic.com/) for more information). 
 
 
 Since living in France we have become involved in many aspects of the community, including two successive mandates as an elected council member of our home town.  We have also obtained dual nationality; English and French.
+
+
+
+
+
+---
+  
+  
+
+
+
+<img style="float: centre;" src="/assets/images/bbq.png" width="600" height="200" hspace="100">

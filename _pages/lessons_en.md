@@ -30,7 +30,7 @@ My aims for you are that you succeed and you look forward to our lessons.  I lik
 
 ---
 
-<div style="text-align: right"> <h1 id="advanced_level"> <img style="float: left;" src="/assets/images/" width="300" height="100" hspace="30"> Advanced level and professional </h1> </div> 
+<div style="text-align: right"> <h1 id="advanced_level"> Advanced level and professional </h1> </div> 
 
 - Exam preparation: TOEIC, TOEFL, 'concours aux grandes écoles'.
 - Writing your curriculum vitae in English.

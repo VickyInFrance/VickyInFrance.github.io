@@ -4,19 +4,21 @@ title: "Plan your visit"
 permalink: /en/residential/
 header:
   overlay_color: "#5e616c"
-  image: /assets/images/viel_annecy.jpg
+  overlay_image: /assets/images/viel_annecy.png
 excerpt: >
   <p style="color:rgba(255,0,0,0);">  _ </p>
 last_modified_at: 2019-10-04T10:54:48-04:00
 ref: residential
 lang: 0
 ---
+
+
 Wanting something more immersive?  Are you moving abroad to work or study but a bit worried about breaking the ice speaking everyday English, and would like to feel more at ease before you go?
 
 ---
 
 
-# Residential courses <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
+# Residential courses <img style="float: right;" src="/assets/images/carl_mandy.png" width="300" height="100" hspace="30">
 
   
 
@@ -41,7 +43,7 @@ My husband writes and plays music and is also a wonderful cook (check out [Peter
 
 ---
 
-<div style="text-align: right"> <h1 id="brunch"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30"> Holidaymakers </h1> </div> 
+<div style="text-align: right"> <h1 id="brunch"> <img style="float: left;" src="/assets/images/aunts_and_uncles.png" width="300" height="100" hspace="30"> Holidaymakers </h1> </div> 
 
 We are also happy to accept holidaymakers, both French and English visitors, who wish to have a good English breakfast before starting out on their day’s walk in the mountains.  Packed lunches can also be provided and assistance with preparing and embarking on your visits or walks.  You can plan your vacation with friends to stay under the same roof and return in the evening to a cooked dinner, to play cards, to have English or French conversation.
 
@@ -59,8 +61,9 @@ We are also happy to accept holidaymakers, both French and English visitors, who
 
 <div style="text-align: right"> <h1 id="price-brunch">  Pricing </h1> </div> 
 
-- Bed and breakfast is 50 euros a night.
-- Brunch and lunches with English or French conversation for approximately one hour and are priced at 20 euros per person.
+
+- Bed and breakfast is 50 euros per person a night, or 80 euros per couple sharing a room.
+- Brunch and 2-course lunches with English or French conversation for approximately one hour and are priced at 20 euros per person. (You are welcome to bring your own wine.)
 - Tea with English or French conversation for approximately one hour at 12 euros per person.
 - Picnic lunches can vary between 8 euros and 14 euros per person.
 - English lessons are 40 euros an hour.

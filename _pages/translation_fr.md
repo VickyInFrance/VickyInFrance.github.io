@@ -4,7 +4,7 @@ title: Travaux de traduction
 permalink: /fr/translation/
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/anotherpictureplease.png
+  overlay_image: /assets/images/para2.jpg
 excerpt: >
   <p style="color:rgba(255,0,0,0);">  _ </p>
 last_modified_at: 2019-10-04T10:54:48-04:00
@@ -16,7 +16,7 @@ J'ai travaillé sur de nombreuses traductions.  Il s'agit notamment de la traduc
 
 ---
 
-<div style="text-align: right"> <h1 id="brunch"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30"> Prix </h1> </div> 
+<div style="text-align: right"> <h1 id="brunch"> Prix </h1> </div> 
 
 
 Le prix dépend de la complexité de la traduction et de son urgence, et aussi du fait qu'il s'agisse de documents écrits ou de traductions en direct.  Pour les traductions écrites, un devis est basé sur le nombre de mots du document, le temps calculé nécessaire (en particulier lorsqu'une recherche approfondie peut être nécessaire), et le temps à consacrer à la personnalisation de l'anglais et à la transformation des idées en la meilleure approche marketing pour atteindre les clients.

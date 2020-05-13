@@ -38,5 +38,3 @@ ref: home
 ---
 
 {% include feature_row %}
-        
-WEBSITE UNDER CONSTRUCTION
