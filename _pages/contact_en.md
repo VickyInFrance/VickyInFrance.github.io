@@ -23,7 +23,7 @@ Please contact us by [email](mailto:vickyinfrance@gmail.com) (vickyinfrance@gmai
   </label>
   <label>
     Your message:
-    <textarea name="message" placeholder=""></textarea>
+    <textarea name="message" placeholder="" required=""></textarea>
   </label>
 
   <!-- your other form fields go here -->

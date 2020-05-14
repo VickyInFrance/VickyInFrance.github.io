@@ -1,11 +1,15 @@
 ---
 layout: splash
-title: Lecon d'anglais
+title: Leçon d'anglais
 permalink: /fr/lessons/
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/anotherpictureplease.png
+  overlay_image: /assets/images/paquier.jpg
 excerpt: >
+  <p style="color:rgba(255,0,0,0);">  _ </p>
+
+  <p style="color:rgba(255,0,0,0);">  _ </p>
+
   <p style="color:rgba(255,0,0,0);">  _ </p>
 last_modified_at: 2019-10-04T10:54:48-04:00
 ref: lessons
@@ -15,7 +19,7 @@ lang: 1
 
 ---
 
-# Objectifs <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
+# Objectifs <img style="float: right;" src="/assets/images/luke_aims.jpg" width="300" height="100" hspace="30">
 
 Des programmes personnalisés en fonction de vos besoins et de vos objectifs.
 - Préparation aux examens nationaux et internationaux en anglais (tels que CAPS, TOEIC, TOEFL, Cambridge, Baccalauréat, ...) ;
@@ -31,7 +35,7 @@ Mes objectifs à moi sont que vous réussissiez et que vous attendiez avec impat
 
 ---
 
-<div style="text-align: right"> <h1 id="advanced_level"> <img style="float: left;" src="/assets/images/" width="300" height="100" hspace="30"> Niveau avancé et professionnel </h1> </div> 
+<div style="text-align: right"> <h1 id="advanced_level"> Niveau avancé et professionnel </h1> </div> 
 
 
 - Préparation aux examens : TOEIC, TOEFL, "concours aux grandes écoles".

@@ -3,12 +3,14 @@ layout: splash
 permalink: /fr
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Giez.png
+  overlay_image: /assets/images/ViewHouse.png
   actions:
     - label: "<i class='fa fa-envelope'></i> Contactez-nous"
       url: "/fr/contact/"
 excerpt: >
   Apprendre l'anglais avec Vicky Naylor
+  
+  <p style="color:rgba(255,0,0,0);">  _ </p>
 feature_row:
   - image_path: /assets/images/mum_headphone_c.png
     alt: "Cours d'anglais"
@@ -17,7 +19,7 @@ feature_row:
     url: "/fr/lessons/"
     btn_class: "btn--primary"
     btn_label: "Apprendre plus"
-  - image_path: /assets/images/ViewHouse.png
+  - image_path: /assets/images/Giez.png
     alt: "Residential"
     title: "Residential"
     excerpt: "Preparer votre visiste."

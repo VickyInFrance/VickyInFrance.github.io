@@ -4,8 +4,10 @@ title: About us
 permalink: /en/about/us
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mont_veyrier.jpg
+  overlay_image: /assets/images/field.jpg
 excerpt: >
+  <p style="color:rgba(255,0,0,0);">  _ </p>
+
   <p style="color:rgba(255,0,0,0);">  _ </p>
 lang: 0
 ref: about
@@ -25,12 +27,8 @@ Since living in France we have become involved in many aspects of the community,
 
 
 
-
-
 ---
   
-  
 
 
-
-<img style="float: centre;" src="/assets/images/bbq.png" width="600" height="200" hspace="100">
+<img style="float: centre;" src="/assets/images/bbq.jpg" width="600" height="200" hspace="100">

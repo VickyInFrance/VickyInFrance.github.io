@@ -1,11 +1,13 @@
 ---
 layout: splash
-title: Auto-evaluation
+title: Auto-évaluation
 permalink: /fr/self-evaluation/
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Giez.png
+  overlay_image: /assets/images/mont_veyrier2.jpg
 excerpt: >
+  <p style="color:rgba(255,0,0,0);">  _ </p>
+  
   <p style="color:rgba(255,0,0,0);">  _ </p>
 last_modified_at: 2019-10-04T10:54:48-04:00
 ref: self_evaluation
@@ -14,7 +16,7 @@ lang: 1
 
 <!-- modify this form HTML and place wherever you want your form -->
 
-Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les quatres propositions et de noter le temps que vous avez passé à répondre aux 50 questions. 
+Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les quatres possibilités et de noter le temps que vous avez passé à répondre aux questions. Attention, ce test est particulièrement difficile, essayer de répondre aux mieux même si vous ne terminez pas. Bonne chance!
 
 <form 
   id="fs-frm" 
@@ -23,14 +25,17 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
   action="https://formspree.io/xyynzzkn" 
   method="post">
   <fieldset id="fs-frm-inputs">
+   <input type="submit" value="Send Responses">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
     <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="Email" required="">
+    <label for="full-name">Time taken</label>
+    <input type="text" name="time" id="time" placeholder="00:00" required="">
     <label for="qcm">Beginning of the QCM:</label>
     <fieldset id="1">
       1. This new boss never 
-        <select name="ans1" required="">
+        <select name="ans1">
         <option value="Select" selected="" disabled="">choose</option>
       	<option value="1_a">is agree</option>
       	<option value="1_b">agrees</option>
@@ -41,7 +46,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     </fieldset>
     <fieldset id="2">
       2. Tom's car is full of books I'm afraid, so there
-        <select name="ans2" required="">
+        <select name="ans2">
         <option value="Select" selected="" disabled="">choose</option>
       	<option value="2_a">won't be</option>
       	<option value="2_b">hadn't been</option>
@@ -52,7 +57,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     </fieldset>
       <fieldset id="3">
       3. If I
-        <select name="ans3" required="">
+        <select name="ans3">
         <option value="Select" selected="" disabled="">choose</option>
       	<option value="3_a">were</option>
       	<option value="3_b">would</option>
@@ -63,7 +68,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     </fieldset>
       <fieldset id="4">
       4. When you
-        <select name="ans4" required="">
+        <select name="ans4">
         <option value="Select" selected="" disabled="">choose</option>
       	<option value="4_a">hear</option>
       	<option value="4_b">listen</option>
@@ -75,7 +80,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
 
 <fieldset id="5">
       5. Could he 
-        <select name="ans5" required="">
+        <select name="ans5">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="5_a">have helped</option>
         <option value="5_b">helping</option>
@@ -87,7 +92,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
 
 <fieldset id="6">
       6. Jessica 
-        <select name="ans6" required="">
+        <select name="ans6">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="6_a">has been reading</option>
         <option value="6_b">reads</option>
@@ -99,7 +104,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="7">
       7. William
-        <select name="ans7" required="">
+        <select name="ans7">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="7_a">lived</option>
         <option value="7_b">lives</option>
@@ -111,7 +116,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
 
 <fieldset id="8">
       8. If the man
-        <select name="ans8" required="">
+        <select name="ans8">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="8_a">has not tried</option>
         <option value="8_b">did not try</option>
@@ -123,7 +128,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="9">
       9. By the time Mr. Carter 
-        <select name="ans9" required="">
+        <select name="ans9">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="9_a">will finish</option>
         <option value="9_b">finishes</option>
@@ -135,7 +140,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
 
 <fieldset id="10">
       10. "Sun flowers" 
-        <select name="ans10" required="">
+        <select name="ans10">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="10_a">was painted</option>
         <option value="10_b">had been painted</option>
@@ -147,7 +152,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="11">
       11. Could you give me some more  
-        <select name="ans11" required="">
+        <select name="ans11">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="11_a">information</option>
         <option value="11_b">informs</option>
@@ -158,20 +163,20 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     </fieldset>
     
 <fieldset id="12">
-      12. 1 recognize that house, the church can't be much 
-        <select name="ans12" required="">
+      12. I recognise that house, the church can't be much 
+        <select name="ans12">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="12_a">far</option>
         <option value="12_b">more far</option>
         <option value="12_c">further</option>
         <option value="12_d">farthest</option>
       </select>
-      
+      .
     </fieldset>
     
 <fieldset id="13">
       13. If he doesn't arrive soon we will have 
-        <select name="ans13" required="">
+        <select name="ans13">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="13_a">telephone</option>
         <option value="13_b">to telephone</option>
@@ -183,7 +188,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="14">
       14. This bomb could explode in a few minutes; we must 
-        <select name="ans14" required="">
+        <select name="ans14">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="14_a">prevent</option>
         <option value="14_b">aware</option>
@@ -195,7 +200,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="15">
       15. I was not able to persuade him 
-        <select name="ans15" required="">
+        <select name="ans15">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="15_a">to tell</option>
         <option value="15_b">to tell to</option>
@@ -207,7 +212,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
 
 <fieldset id="16">
       16. I seem to have lost my wallet. Could you 
-        <select name="ans16" required="">
+        <select name="ans16">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="16_a">borrow</option>
         <option value="16_b">lend</option>
@@ -219,7 +224,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="17">
       17. Given the candidate's name was not on the official register, he won't be able to
-        <select name="ans17" required="">
+        <select name="ans17">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="17_a">take</option>
         <option value="17_b">attend to</option>
@@ -231,7 +236,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
 
 <fieldset id="18">
       18. After more than 3 hours they succeeded 
-        <select name="ans18" required="">
+        <select name="ans18">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="18_a">to find</option>
         <option value="18_b">in locating</option>
@@ -243,7 +248,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="19">
       19. Nigel is arriving at the airport at 6 p.m. Could you go and 
-        <select name="ans19" required="">
+        <select name="ans19">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="19_a">take</option>
         <option value="19_b">look</option>
@@ -255,7 +260,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
 
 <fieldset id="20">
       20. His son went to university  
-        <select name="ans20" required="">
+        <select name="ans20">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="20_a">to study</option>
         <option value="20_b">studying</option>
@@ -267,7 +272,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="21">
       21. They
-        <select name="ans21" required="">
+        <select name="ans21">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="21_a">use to</option>
         <option value="21_b">have the habit</option>
@@ -279,8 +284,8 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="22">
       22.  
-        <select name="ans22" required="">
-        <option value="Select" selected="" disabled="">choose</option>
+        <select name="ans22">
+        <option value="Select" selected="" disabled="">Choose</option>
         <option value="22_a">Most</option>
         <option value="22_b">Most of</option>
         <option value="22_c">The most</option>
@@ -291,19 +296,19 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="23">
       23. That tree is almost as tall
-        <select name="ans23" required="">
+        <select name="ans23">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="23_a">than</option>
         <option value="23_b">that</option>
         <option value="23_c">liked</option>
         <option value="23_d">as</option>
       </select>
-      tall the one we saw in the park.
+      the one we saw in the park.
     </fieldset>
     
 <fieldset id="24">
       24. The football team trained hard, 
-        <select name="ans24" required="">
+        <select name="ans24">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="24_a">although</option>
         <option value="24_b">and</option>
@@ -315,7 +320,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="25">
       25. This person does not like
-        <select name="ans25" required="">
+        <select name="ans25">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="25_a">many</option>
         <option value="25_b">several</option>
@@ -327,7 +332,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
 
 <fieldset id="26">
       26. The customer complained to the manager 
-        <select name="ans26" required="">
+        <select name="ans26">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="26_a">of</option>
         <option value="26_b">from</option>
@@ -338,20 +343,20 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     </fieldset>
     
 <fieldset id="27">
-      27. Just ten people came to the�meeting because only 
-        <select name="ans28" required="">
+      27. Just ten people came to the meeting because only 
+        <select name="ans27">
         <option value="Select" selected="" disabled="">choose</option>
-        <option value="28_a">a few</option>
-        <option value="28_b">most</option>
-        <option value="28_c">little</option>
-        <option value="28_d">minority</option>
+        <option value="27_a">a few</option>
+        <option value="27_b">most</option>
+        <option value="27_c">little</option>
+        <option value="27_d">minority</option>
       </select>
       of them had received the letter.
     </fieldset>
 
 <fieldset id="28">
       28. Whenever he 
-        <select name="ans28" required="">
+        <select name="ans28">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="28_a">will borrow</option>
         <option value="28_b">lend</option>
@@ -363,19 +368,19 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="29">
       29. The train broke down twice, nevertheless it came in 
-        <select name="ans29" required="">
+        <select name="ans29">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="29_a">on time</option>
         <option value="29_b">to time</option>
         <option value="29_c">at time</option>
         <option value="29_d">by time</option>
       </select>
-     
+      .     
     </fieldset>
 
 <fieldset id="30">
       30. "What time do we 
-        <select name="ans30" required="">
+        <select name="ans30">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="30_a">must</option>
         <option value="30_b">need to</option>
@@ -386,8 +391,8 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     </fieldset>
     
 <fieldset id="31">
-      Her boss is the kind of person 
-        <select name="ans31" required="">
+      31. Her boss is the kind of person 
+        <select name="ans31">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="31_a">who</option>
         <option value="31_b">what</option>
@@ -398,11 +403,11 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     </fieldset>
     
 <fieldset id="32">
-      32 When the employees were told  
-        <select name="ans32" required="">
+      32. When the employees were told  
+        <select name="ans32">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="32_a">to start still</option>
-        <option value="32_b">to taek again</option>
+        <option value="32_b">to take again</option>
         <option value="32_c">to resume</option>
         <option value="32_d">to continue yet</option>
       </select>
@@ -411,8 +416,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="33">
       33. If the police search the house, they will discover that the money is
-
-        <select name="ans33" required="">
+        <select name="ans33">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="33_a">still</option>
         <option value="33_b">yet</option>
@@ -424,19 +428,19 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="34">
       34. This murder was so terrible that thousands of people came to the 
-        <select name="ans34" required="">
+        <select name="ans34">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="34_a">process</option>
         <option value="34_b">instruction</option>
         <option value="34_c">trial</option>
         <option value="34_d">audience</option>
       </select>
-      
+      .
     </fieldset>
     
 <fieldset id="35">
       35. As he was walking in the street he  
-        <select name="ans35" required="">
+        <select name="ans35">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="35_a">went on</option>
         <option value="35_b">felt</option>
@@ -448,8 +452,8 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
 
 <fieldset id="36">
       36. 
-        <select name="ans36" required="">
-        <option value="Select" selected="" disabled="">choose</option>
+        <select name="ans36">
+        <option value="Select" selected="" disabled="">Choose</option>
         <option value="36_a">By</option>
         <option value="36_b">In</option>
         <option value="36_c">On</option>
@@ -459,20 +463,20 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     </fieldset>
     
 <fieldset id="37">
-      37. tf you take the sweater back to the shop they should 
-        <select name="ans37" required="">
+      37. If you take the sweater back to the shop they should 
+        <select name="ans37">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="37_a">give money back</option>
         <option value="37_b">give you to refund</option>
         <option value="37_c">refund to you</option>
         <option value="37_d">give you a refund</option>
       </select>
-      
+      .
     </fieldset>
 
 <fieldset id="38">
       38. She was trying to get her work done 
-        <select name="ans38" required="">
+        <select name="ans38">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="38_a">during</option>
         <option value="38_b">pending</option>
@@ -484,19 +488,19 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="39">
       39. His car had broken down, therefore he came to school 
-        <select name="ans39" required="">
+        <select name="ans39">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="39_a">by feet</option>
         <option value="39_b">on foot</option>
         <option value="39_c">at foot</option>
         <option value="39_d">on feet</option>
       </select>
-      
+      .
     </fieldset>
 
 <fieldset id="40">
-      40. They went
-        <select name="ans40" required="">
+      40. They went on
+        <select name="ans40">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="40_a">in</option>
         <option value="40_b">doing</option>
@@ -508,7 +512,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="41">
       41. The good news 
-        <select name="ans41" required="">
+        <select name="ans41">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="41_a">has arrived</option>
         <option value="41_b">arrived</option>
@@ -520,7 +524,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="42">
       42. As he thought the house was on fire, he .  
-        <select name="ans42" required="">
+        <select name="ans42">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="42_a">crashed</option>
         <option value="42_b">dashed</option>
@@ -532,7 +536,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="43">
       43. Will those measures result 
-        <select name="ans43" required="">
+        <select name="ans43">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="43_a">in</option>
         <option value="43_b">on</option>
@@ -544,8 +548,8 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="44">
       44. 
-        <select name="ans44" required="">
-        <option value="Select" selected="" disabled="">choose</option>
+        <select name="ans44">
+        <option value="Select" selected="" disabled="">Choose</option>
         <option value="44_a">Regarding</option>
         <option value="44_b">Despite</option>
         <option value="44_c">Ignoring</option>
@@ -555,20 +559,20 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     </fieldset>
     
 <fieldset id="45">
-      45 They did nothing but  
-        <select name="ans45" required="">
+      45. They did nothing but  
+        <select name="ans45">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="45_a">complain</option>
         <option value="45_b">complaining</option>
         <option value="45_c">to complain</option>
         <option value="45_d">complained</option>
       </select>
-      
+      .
     </fieldset>
 
 <fieldset id="46">
       46. He  
-        <select name="ans46" required="">
+        <select name="ans46">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="46_a">was waiting</option>
         <option value="46_b">has been waiting</option>
@@ -580,7 +584,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="47">
       47. There is a long way to go before the market 
-        <select name="ans47" required="">
+        <select name="ans47">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="47_a">is reaching</option>
         <option value="47_b">has reached</option>
@@ -592,7 +596,7 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
 
 <fieldset id="48">
       48. Politicians show no interest in people's
-        <select name="ans48" required="">
+        <select name="ans48">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="48_a">day</option>
         <option value="48_b">days's</option>
@@ -604,19 +608,19 @@ Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les qua
     
 <fieldset id="49">
       49. So far, no clear evidence 
-        <select name="ans49" required="">
+        <select name="ans49">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="49_a">emerged</option>
         <option value="49_b">has emerged</option>
         <option value="49_c">had emerged</option>
         <option value="49_d">has been emerging</option>
       </select>
-      
+      .
     </fieldset>
 
 <fieldset id="50">
       50. He was so drunk that he didn't  
-        <select name="ans50" required="">
+        <select name="ans50">
         <option value="Select" selected="" disabled="">choose</option>
         <option value="50_a">avoid</option>
         <option value="50_b">prevent</option>

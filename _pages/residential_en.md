@@ -18,7 +18,7 @@ Wanting something more immersive?  Are you moving abroad to work or study but a 
 ---
 
 
-# Residential courses <img style="float: right;" src="/assets/images/carl_mandy.png" width="300" height="100" hspace="30">
+# Residential courses <img style="float: right;" src="/assets/images/carl_mandy.jpg" width="300" height="100" hspace="30">
 
   
 
@@ -43,7 +43,7 @@ My husband writes and plays music and is also a wonderful cook (check out [Peter
 
 ---
 
-<div style="text-align: right"> <h1 id="brunch"> <img style="float: left;" src="/assets/images/aunts_and_uncles.png" width="300" height="100" hspace="30"> Holidaymakers </h1> </div> 
+<div style="text-align: right"> <h1 id="brunch"> <img style="float: left;" src="/assets/images/aunts_and_uncles.jpg" width="300" height="100" hspace="30"> Holidaymakers </h1> </div> 
 
 We are also happy to accept holidaymakers, both French and English visitors, who wish to have a good English breakfast before starting out on their day’s walk in the mountains.  Packed lunches can also be provided and assistance with preparing and embarking on your visits or walks.  You can plan your vacation with friends to stay under the same roof and return in the evening to a cooked dinner, to play cards, to have English or French conversation.
 

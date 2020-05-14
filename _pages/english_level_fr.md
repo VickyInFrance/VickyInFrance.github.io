@@ -4,8 +4,16 @@ title: Niveau d'anglais
 permalink: /fr/start_english_level
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Giez.png
+  overlay_image: /assets/images/boat.jpg
 excerpt: >
+  <p style="color:rgba(255,0,0,0);">  _ </p>
+
+  <p style="color:rgba(255,0,0,0);">  _ </p>
+
+  <p style="color:rgba(255,0,0,0);">  _ </p>
+  
+  <p style="color:rgba(255,0,0,0);">  _ </p>
+  
   <p style="color:rgba(255,0,0,0);">  _ </p>
 ref: english_level
 lang: 1
