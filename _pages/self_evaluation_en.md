@@ -16,4 +16,4 @@ lang: 0
 
 No cheating! Actually wait, if you are on the English version of the website it would seem you don't need to do this test... 
   
-Still want to check the test? Check it out [here](/fr/self-evaluation/).
+Still want to do the test? Check it out [here](/fr/self-evaluation/).

@@ -17,7 +17,7 @@ We moved to France from London with our five young children in 1994.  In London 
 
 
 
-Soon after moving to France, we set up a company and an in-house music recording studio (see our music website for residential possibilities for group practices and recordings).  My husband writes and plays music and is also a wonderful cook (go check out Peter’s daily [cooking blog](https://GiezFoodie.github.io) to see some of his exciting and trusted menus).
+Soon after moving to France, we set up a company and an in-house music recording studio (see our [music website](https://MusicLodge.github.io) for residential possibilities for group practices and recordings).  My husband writes and plays music and is also a wonderful cook (go check out Peter’s daily [cooking blog](https://GiezFoodie.github.io) to see some of his exciting and trusted menus).
 
 
 Our eldest son, Adam, also teaches the guitar, writes music and plays in concerts (see his [website](http://www.adamnaylormusic.com/) for more information). 

@@ -10,14 +10,14 @@ header:
     - label: "<i class='fa fa-envelope'></i> Contact us"
       url: "/en/contact/"
 excerpt: >
-  Learning English with Vicky Naylor
-  
+  Teaching English in the Annecy area
+   
   <p style="color:rgba(255,0,0,0);">  _ </p>
 feature_row:
-  - image_path: /assets/images/mum_headphone_c.png
+  - image_path: /assets/images/mum_working.jpg
     alt: "English lessons"
     title: "English lessons"
-    excerpt: "What do you need? From beginners to professionals, young and old, at home or remotely."
+    excerpt: "What do you need? From beginners to professionals, young and old, at home, in your office or remotely."
     url: "/en/lessons/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
