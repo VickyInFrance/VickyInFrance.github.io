@@ -17,7 +17,7 @@ Nous avons quitté Londres pour nous installer en France avec nos cinq jeunes en
 
 
 
-Peu après mon arrivée en France, nous avons créé une entreprise et un studio d'enregistrement (voir notre autre [site web](https://MusicLodge.github.io) pour la musique pour plus d'information sur les résidences pour les groupex et les enregistrements).  Mon mari écrit et joue de la musique et est également un merveilleux cuisinier (allez voir le blog de cuisine quotidien de [Peter](GiezFoodie.github.io) pour voir certains de ses menus passionnants et fiables).
+Peu après mon arrivée en France, nous avons créé une entreprise et un studio d'enregistrement (voir notre autre [site web](https://MusicLodge.github.io) pour la musique pour plus d'information sur les résidences pour les groupes et les enregistrements).  Mon mari écrit et joue de la musique et est également un merveilleux cuisinier (allez voir le blog de cuisine quotidien de [Peter](GiezFoodie.github.io) pour voir certains de ses menus passionnants et fiables).
 
 
 Notre fils aîné, Adam, enseigne également la guitare, écrit de la musique et joue dans des concerts (voir son [site web](http://www.adamnaylormusic.com/) pour plus d'informations). 
