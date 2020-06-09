@@ -34,7 +34,7 @@ Personalised programmes to suit you and your aims.
 -	To improve your comprehension of spoken and/or written English;
 -	Specific business English: science, engineering, medical, research, finance, juridical, tourism, construction, arts, music, sport, fitness, environment, journalism, media…
 
-We will work on your weaknesses, whether they are grammatical, improving your vocabulary and/or pronunciation; to help you become confident and more fluent.
+We will work on your weaknesses, from grammar to improving your vocabulary and/or pronunciation; to help you become confident and more fluent.
 
 My aims for you are that you succeed and you look forward to our lessons.  I like to establish a good relationship with my students so that they are happy and we enjoy being in each other’s company. I have always found that students work best in a fun and happy atmosphere.  In other words, learning with pleasure!
 

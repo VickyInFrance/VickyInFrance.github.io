@@ -19,9 +19,9 @@ lang: 1
 
 ---
 
-<div style="text-align: right"> <h1 id="companies">  <img style="float: left;" src="/assets/images/new_mum_working.jpg" width="400" height="125" hspace="15"> Une opportunité pour tout le monde sur votre lieu de travail.  </h1> </div> 
+<div style="text-align: right"> <h1 id="companies">  <img style="float: left;" src="/assets/images/new_mum_working.jpg" width="400" height="125" hspace="15"> Une opportunité pour tout le monde au sein de votre entreprise.  </h1> </div> 
 
-Je vous propose des contrats de 3 heures au coeur de votre entreprise.  Tout le monde peut s'inscrire avec moi pour une leçon en face à face au début de la session du matin ou de l'après-midi.  De cette manière, les leçons peuvent être organisées en fonction de vos besoins, de vos objectifs et de vos capacités, et en fonction de votre charge de travail.  Il peut s'agir de leçons individuelles ou de petits groupes.  L'objectif est que tous les membres de l'entreprise se sentent à l'aise pour parler anglais, qu'il s'agisse de répondre au téléphone ou d'accueillir des visiteurs anglophones, et que les intervenants avancés se sentent tout aussi à l'aise lors des discussions techniques ou des réunions.
+Je vous propose des contrats de 3 heures au coeur de votre entreprise.  Tous et chacun peuvent s'inscrire avec moi pour une leçon en face à face au début de la session du matin ou de l'après-midi.  De cette manière, les leçons peuvent être organisées en fonction de vos besoins, de vos objectifs et de vos capacités, et en fonction de votre charge de travail.  Il peut s'agir de leçons individuelles ou de petits groupes.  L'objectif est que tous les membres de l'entreprise se sentent à l'aise pour parler anglais, qu'il s'agisse de répondre au téléphone ou d'accueillir des visiteurs anglophones, et que les intervenants avancés se sentent aussi à l'aise lors des discussions techniques ou des réunions.
 
 
 ---
@@ -34,7 +34,7 @@ Des programmes personnalisés en fonction de vos besoins et de vos objectifs.
 - Améliorer votre compréhension de l'anglais parlé et/ou écrit ;
 - Anglais spécifique des affaires : sciences, ingénierie, médecine, recherche, finance, juridique, tourisme, construction, arts, musique, sport, fitness, environnement, journalisme, médias...
 
-Nous travaillerons sur vos points faibles, qu'ils soient grammaticaux, de vocabulaire et/ou de prononciation ; je vous aiderai à devenir plus confiant et plus fluide.
+Nous travaillerons sur vos points faibles, de la grammaire à l’amélioration de votre vocabulaire et/ou pronunciation; je vous aiderai à devenir plus confiant et plus fluide.
 
 Mes objectifs à moi sont que vous réussissiez et que vous attendiez avec impatience nos leçons.  J'aime établir une bonne relation avec mes étudiants afin qu'ils soient heureux et que nous ayons plaisir à être en compagnie les uns des autres. J'ai toujours trouvé que les étudiants travaillent mieux dans une atmosphère amusante et heureuse.  En d'autres termes, ils apprennent avec plaisir !
 
@@ -73,10 +73,10 @@ ___
 
 Pour les enfants jusqu'à 7 ans, j'utilise la musique avec des chansons, des actions et des jeux.  Plus l'enfant grandit, cette stratégie se poursuit mais comprend de plus en plus un apprentissage constructif au moyen de blocs de construction pour la grammaire et l'écriture.
 
-On n'est jamais trop jeune ou trop vieux pour apprendre l'anglais.
+Il n’est jamais trop tard ou trop tôt pour apprendre l’anglais !
 
 ---
 
 # Prix
   
-Le prix est fonction du nombre d'étudiants, mais aussi de vos besoins et de votre niveau d'anglais. À titre indicatif, les cours d'anglais de base sont facturés 40 euros de l'heure. Veuillez [nous contacter](/contact/) pour obtenir un devis.
+Le prix est en fonction du nombre d'étudiants, mais aussi de vos besoins et de votre niveau d'anglais. À titre indicatif, les cours d'anglais de base sont facturés à 40 euros de l'heure. Veuillez [nous contacter](/contact/) pour obtenir un devis.

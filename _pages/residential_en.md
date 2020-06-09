@@ -22,7 +22,7 @@ Wanting something more immersive?  Are you moving abroad to work or study but a 
 
   
 
-Residential courses from beginner to advanced.  Maximum of 3 people per level.  Intensive programme during 3 days with morning and afternoon lessons (9 am to 12 am and 2 pm to 5 pm), accommodation and full board with 3 meals daily. Spoken English required at all times.  All nationalities and ages are welcome!
+Residential courses from beginner to advanced. Intensive programme during 3 days with morning and afternoon lessons (9 am to 12 am and 2 pm to 5 pm), accommodation and full board with 3 meals daily. Spoken English required at all times.  All nationalities and ages are welcome!
 
 
 
@@ -44,15 +44,15 @@ My husband writes and plays music and is also a wonderful cook (check out [Peter
 
 <div style="text-align: right"> <h1 id="brunch"> <img style="float: left;" src="/assets/images/aunts_and_uncles.jpg" width="300" height="100" hspace="30"> Holidaymakers </h1> </div> 
 
-We are also happy to accept holidaymakers who wish to have a good English breakfast before starting out on their day’s walk in the mountains.  Packed lunches can also be provided and assistance with preparing and embarking on your visits or walks.  You can plan your vacation with friends to stay under the same roof and return in the evening to a cooked dinner, to play cards, to have English or French conversation.
+We are also happy to accept holidaymakers who wish to have a good English or continental breakfast before starting out on their day’s walk in the mountains.  Packed lunches can also be provided and assistance with preparing and embarking on your visits or walks.  You can plan your vacation with friends to stay under the same roof and return in the evening to a cooked dinner, to play cards, to have English or French conversation.
 
 ---
 
 # Leisurely conversation around a meal <img style="float: right;" src="/assets/images/tea.jpg" width="300" height="100" hspace="30">
 
-- Join us for a minimum time of an hour around a lunch.  We can discuss your menu and any food allergies.  Bring a bottle if you’d like to! 25 euros per person<sup><span style="color:blue">2.</span></sup> for 2 courses, including water and coffee<sup><span style="color:blue">3.</span></sup>. 
+- Join us for a minimum time of an hour around a lunch<sup><span style="color:blue">2.</span></sup><sup><span style="color:blue">3.</span></sup>.  We can discuss your menu and any food allergies.  Bring a bottle if you’d like to! 
 
-- Come and enjoy an English cup of tea with homemade cake or scones, for a minimum time of an hour<sup><span style="color:blue">2.</span></sup> <sup><span style="color:blue">3.</span></sup> . 
+- Come and enjoy an English cup of tea with homemade cake or scones, for a minimum time of an hour<sup><span style="color:blue">3.</span></sup> . 
 
 
 <sup><span style="color:blue">2.</span></sup> *For a minimum of two people*.
@@ -66,11 +66,11 @@ We are also happy to accept holidaymakers who wish to have a good English breakf
 
 
 - Bed and continental breakfast (supplement for cooked breakfast) is 50 euros per person a night, or 80 euros per couple sharing a room.
-- Brunch and 2-course lunches with English or French conversation for a minimum time of one hour and are priced at 20 euros per person. (You are welcome to bring your own wine.)
-- Tea with English or French conversation for a minimum time of one hour at 12 euros per person.
+- Brunch and 2-course lunches with English or French conversation for a minimum time of one hour and are priced at 25 euros per person, including water and coffee. (You are welcome to bring your own wine.)
+- Tea with English or French conversation for a minimum time of one hour at 12 euros per person for a minimum of 3 people.
 - Picnic lunches on request can vary between 8 euros and 14 euros per person.
 - English lessons are 40 euros an hour.
-- Pricing for residential stays are relative to the number of guests and/or students. They are also set according to your requirements and length of stay.  Please [contact us](/contact/) for your quotation.
+- Pricing for residential stays are relative to the number of guests and/or students. They are also set according to your requirements and length of stay.  Please [contact us](/en/contact/) for your quotation.
 
 
 ---
