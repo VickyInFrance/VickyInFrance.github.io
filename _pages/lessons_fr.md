@@ -19,6 +19,13 @@ lang: 1
 
 ---
 
+<div style="text-align: right"> <h1 id="companies">  <img style="float: left;" src="/assets/images/new_mum_working.jpg" width="400" height="125" hspace="15"> Une opportunité pour tout le monde sur votre lieu de travail.  </h1> </div> 
+
+Je vous propose des contrats de 3 heures au coeur de votre entreprise.  Tout le monde peut s'inscrire avec moi pour une leçon en face à face au début de la session du matin ou de l'après-midi.  De cette manière, les leçons peuvent être organisées en fonction de vos besoins, de vos objectifs et de vos capacités, et en fonction de votre charge de travail.  Il peut s'agir de leçons individuelles ou de petits groupes.  L'objectif est que tous les membres de l'entreprise se sentent à l'aise pour parler anglais, qu'il s'agisse de répondre au téléphone ou d'accueillir des visiteurs anglophones, et que les intervenants avancés se sentent tout aussi à l'aise lors des discussions techniques ou des réunions.
+
+
+---
+
 # Objectifs <img style="float: right;" src="/assets/images/luke_aims.jpg" width="300" height="100" hspace="30">
 
 Des programmes personnalisés en fonction de vos besoins et de vos objectifs.

@@ -18,9 +18,9 @@ lang: 0
 
 ---
 
-<div style="text-align: right"> <h1 id="companies">  <img style="float: left;" src="/assets/images/mum_working.jpg" width="400" height="125" hspace="15"> An opportunity for everyone while at your place of work.  </h1> </div> 
+<div style="text-align: right"> <h1 id="companies">  <img style="float: left;" src="/assets/images/new_mum_working.jpg" width="400" height="125" hspace="15"> An opportunity for everyone while at your place of work.  </h1> </div> 
 
-<strong></strong> I offer 3-hour contracts within the heart of your company workplace.  Anyone and everyone can sign up with me for a face to face lesson at the beginning of the morning or afternoon session.  In this way, lessons can be arranged to fit in with you and your workload and according to your needs, aims and ability.  These can be individual lessons or in small groups.  The aim is for everyone in the company to feel at ease speaking English, whether it’s from answering the telephone to welcoming English speaking visitors; and for the advanced speakers to become equally comfortable from technical discussions to meetings.
+I offer 3-hour contracts within the heart of your company workplace.  Anyone and everyone can sign up with me for a face to face lesson at the beginning of the morning or afternoon session.  In this way, lessons can be arranged to fit in with you and your workload and according to your needs, aims and ability.  These can be individual lessons or in small groups.  The aim is for everyone in the company to feel at ease speaking English, whether it’s from answering the telephone to welcoming English speaking visitors; and for the advanced speakers to become equally comfortable from technical discussions to meetings.
 
 
 ---

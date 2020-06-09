@@ -50,7 +50,7 @@ We are also happy to accept holidaymakers who wish to have a good English breakf
 
 # Leisurely conversation around a meal <img style="float: right;" src="/assets/images/tea.jpg" width="300" height="100" hspace="30">
 
-- Join us for a minimum time of an hour around a lunch or tea.  We can discuss your menu and any food allergies.  Bring a bottle if you’d like to! 25 euros per person<sup><span style="color:blue">2.</span></sup> for 2 courses, including water and coffee<sup><span style="color:blue">3.</span></sup>. 
+- Join us for a minimum time of an hour around a lunch.  We can discuss your menu and any food allergies.  Bring a bottle if you’d like to! 25 euros per person<sup><span style="color:blue">2.</span></sup> for 2 courses, including water and coffee<sup><span style="color:blue">3.</span></sup>. 
 
 - Come and enjoy an English cup of tea with homemade cake or scones, for a minimum time of an hour<sup><span style="color:blue">2.</span></sup> <sup><span style="color:blue">3.</span></sup> . 
 
