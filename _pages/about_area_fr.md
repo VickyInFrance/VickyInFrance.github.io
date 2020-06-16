@@ -15,7 +15,7 @@ Nous vivons dans une belle région qui se prête à de multiples intérêts spor
 
 
 
-Notre propre village de [Giez](https://www.giez-annecy.fr/Giez/Accueil.html) est calme et dispose d'[un terrain de golf de 9 et 18 trous](https://golfdegiez.com/).  Notre maison est située dans la partie historique du village, surplombant une partie du terrain de golf et surplombée par son château médiéval encore privé.  Nous sommes néanmoins assez bien desservis par les transports publics, tant vers Annecy dans un sens que vers Albertville dans l'autre, et par la piste cyclable au bas de notre route.
+Notre propre village de [Giez](http://www.giez-annecy.fr/Giez/Accueil.html) est calme et dispose d'[un terrain de golf de 9 et 18 trous](https://golfdegiez.com/).  Notre maison est située dans la partie historique du village, surplombant une partie du terrain de golf et surplombée par son château médiéval encore privé.  Nous sommes néanmoins assez bien desservis par les transports publics, tant vers Annecy dans un sens que vers Albertville dans l'autre, et par la piste cyclable au bas de notre route.
 
 
 

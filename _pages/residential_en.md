@@ -67,8 +67,8 @@ We are also happy to accept holidaymakers who wish to have a good English or con
 
 - Bed and continental breakfast (supplement for cooked breakfast) is 50 euros per person a night, or 80 euros per couple sharing a room.
 - Brunch and 2-course lunches with English or French conversation for a minimum time of one hour and are priced at 25 euros per person, including water and coffee. (You are welcome to bring your own wine.)
-- Tea with English or French conversation for a minimum time of one hour at 12 euros per person for a minimum of 3 people.
-- Picnic lunches on request can vary between 8 euros and 14 euros per person.
+- Tea with English or French conversation for a minimum time of one hour at 14 euros per person for a minimum of 3 people.
+- Picnic lunches on request. 
 - English lessons are 40 euros an hour.
 - Pricing for residential stays are relative to the number of guests and/or students. They are also set according to your requirements and length of stay.  Please [contact us](/en/contact/) for your quotation.
 
