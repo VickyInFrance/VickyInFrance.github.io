@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Pannifier votre visite
+title: Planifiez votre visite
 permalink: /fr/residential/
 header:
   overlay_color: "#5e616c"
@@ -16,19 +16,19 @@ Vous souhaitiez quelque chose de plus immersif ?  Vous partez à l'étranger pou
 
 # Cours en résidence <img style="float: right;" src="/assets/images/carl_mandy.jpg" width="300" height="100" hspace="30">
 
-Cours en résidence du niveau débutant au niveau avancé. Programme intensif de 3 jours avec cours le matin et l'après-midi (9 h à 12 h et 14 h à 17 h), hébergement et pension complète avec 3 repas par jour. Anglais parlé requis à tout moment. Toutes les nationalités et tous les âges sont les bienvenus ! 
+Cours en résidence du niveau débutant au niveau avancé. Programme intensif de 3 jours avec cours le matin et/ou l'après-midi (9h à 12h et 14h à 17h), hébergement et pension complète avec 3 repas par jour. Anglais parlé requis à tout moment. Toutes les nationalités et tous les âges sont les bienvenus ! 
 
 
 
 
 Les séjours plus longs d'une semaine incluraient un minimum de 3 heures de cours d'anglais par jour ainsi que d'autres activités et/ou visites selon les besoins de l'étudiant : 
 <img style="float: right;" src="/assets/images/carla_trampoline.jpg" width="300" height="100" hspace="30">
-- L'étiquette et les coutumes anglaises
-- de nombreuses activités de plein air peuvent être organisées (ski, randonnée, parapente, canyoning, voile, etc.)
-- des visites culturelles, proches et lointaines (sur demande)<sup><span style="color:blue">1.</span></sup>
-- viniculture ; appréciation du vin
-- musique ; pratique et enregistrements
-- cuisine
+- L'étiquette et les coutumes anglaises.
+- De nombreuses activités de plein air peuvent être organisées (ski, randonnée, parapente, canyoning, voile, etc.).
+- Des visites culturelles, proches et lointaines (sur demande)<sup><span style="color:blue">1.</span></sup>.
+- Viniculture ; appréciation du vin.
+- Musique ; pratique et enregistrements.
+- Cuisine.
 
 
 Mon mari écrit et joue de la musique et est également un merveilleux cuisinier (consultez [son blog de cuisine quotidien](GiezFoodie.github.io) pour voir certains de ses menus passionnants et délicieux).
@@ -63,7 +63,7 @@ Nous sommes également heureux d'accepter les vacanciers, qui souhaitent prendre
 - La chambre d'hôtes est à 50 euros par nuit.
 - Les brunchs et déjeuners avec conversation en anglais ou en français pendant un minimum d’une heure sont facturés 25 euros par personne, incluant l’eau et café. (Vous pouvez apporter votre propre vin.)
 - Thés et scones avec conversation en anglais ou en français pendant un minimum d'une heure sont facturés 14 euros par personne pour un minimum de 3 personnes
-- Les déjeuners pique-nique sur demande.
+- Les déjeuners pique-nique sont à la demande. Veuillez [nous contacter](/fr/contact/) pour obtenir une estimation.
 - Les cours d'anglais sont à 40 euros de l'heure.
 - Les prix des séjours en résidence sont en fonction du nombre d'invités et/ou d'étudiants. Ils sont également fixés en fonction de vos besoins et de la durée du séjour.  Veuillez [nous contacter](/fr/contact/) pour obtenir un devis.
 

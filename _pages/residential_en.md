@@ -22,18 +22,18 @@ Wanting something more immersive?  Are you moving abroad to work or study but a 
 
   
 
-Residential courses from beginner to advanced. Intensive programme during 3 days with morning and afternoon lessons (9 am to 12 am and 2 pm to 5 pm), accommodation and full board with 3 meals daily. Spoken English required at all times.  All nationalities and ages are welcome!
+Residential courses from beginner to advanced. Intensive programme during 3 days with morning and/or afternoon lessons (9 am to 12 am and 2 pm to 5 pm), accommodation and full board with 3 meals daily. Spoken English required at all times.  All nationalities and ages are welcome!
 
 
 
 Longer stays of one week and more would include a minimum of 3 hours of English lessons per day and also other activities and/or visits to suit the student: 
 <img style="float: right;" src="/assets/images/carla_trampoline.jpg" width="300" height="100" hspace="30">
-- English etiquette and English customs
-- numerous outdoor activities can be arranged (skiing, hiking, paragliding, canyoning, sailing, etc..)
-- cultural visits, near and far (on request)<sup><span style="color:blue">1.</span></sup>
-- viniculture; wine appreciation
-- music; practice and recordings
-- cooking
+- English etiquette and English customs.
+- Numerous outdoor activities can be arranged (skiing, hiking, paragliding, canyoning, sailing, etc..).
+- Cultural visits, near and far (on request).<sup><span style="color:blue">1.</span></sup>
+- Viniculture; wine appreciation.
+- Music; practice and recordings.
+- Cooking.
 
 My husband writes and plays music and is also a wonderful cook (check out [Peter’s daily cooking blog](GiezFoodie.github.io) to see some of his exciting and trusted menus).
 

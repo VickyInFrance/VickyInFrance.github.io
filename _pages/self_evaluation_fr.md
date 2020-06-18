@@ -16,7 +16,7 @@ lang: 1
 
 <!-- modify this form HTML and place wherever you want your form -->
 
-Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les quatres possibilités et de noter le temps que vous avez passé à répondre aux questions. Attention, ce test est particulièrement difficile, essayer de répondre aux mieux même si vous ne terminez pas. Bonne chance!
+Pas de triche! Il vous suffit de choisir rapidement votre réponse entre les quatres possibilités et de noter le temps que vous avez passé à répondre aux questions. Attention, ce test est particulièrement difficile, essayez de répondre au mieux même si vous ne terminez pas. Bonne chance!
 
 <form 
   id="fs-frm" 
