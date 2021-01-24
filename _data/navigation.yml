@@ -17,9 +17,6 @@ main:
         url: /en/about/us
       - title: The area
         url: /en/about/area
-      - title: The cooking
-        url: /en/about/cooking
-
 t:
   - main:
       - title: "Quick-Start Guide"
@@ -38,6 +35,8 @@ t:
             url: /en/about/us
           - title: The area
             url: /en/about/area
+          - title: References
+            url: /en/about/ref
 
   - main:
       - title: "Guide de départ"
@@ -56,6 +55,8 @@ t:
             url: /fr/about/us
           - title: Sur la région
             url: /fr/about/area
+          - title: Références
+            url: /fr/about/ref
 ---
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
